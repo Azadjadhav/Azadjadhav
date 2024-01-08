@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Azadjadhav
+- 👀 I’m interested in coading
+- 🌱 I’m currently learning Diploma
+- 📫 How to reach me ph.no:9730533303
