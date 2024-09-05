@@ -6,22 +6,3 @@ About Me:
 💻 Java enthusiast, diving deep into GUI design and programming.
 🎮 Gamer and anime lover (my downtime fuel).
 📸 Amateur photographer, capturing moments whenever I can.
-What I'm Working On:
-💡 Currently focused on creating cool Java GUI projects.
-🚀 Developing a game to teach basic programming skills in a fun and engaging way.
-Let's Connect! 🌐
-Always open to collaborations, code talk, or just sharing anime recommendations. Feel free to reach out!
-This way, it feels approachable yet still maintains a professional tone. Let me know what you think!
-
-
-
-
-
-
-
-
-
-
-
-
-ChatGPT can make mistakes. Check impo
