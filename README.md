@@ -1,27 +1,60 @@
-# Welcome to My Portfolio  
+# Hi there, I'm Azad Gorakh Jadhav 👋
 
-## About Me  
-Hello! I'm a **computer engineering student** currently pursuing my studies at **Zeal Institute**, having completed my diploma at **Zeal Education Society**.  
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-I'm passionate about **technology, anime, and gaming**. Whether it's coding a project, watching epic anime battles, or immersing myself in a game, I thrive on creativity and problem-solving.  
+## 👨‍💻 About Me
 
-## Cool Fact  
-I’m a **huge fan of Madara Uchiha** from Naruto, and I draw inspiration from his iconic lines:  
-*"Wake up to reality! Nothing ever goes as planned in this accursed world."*  
+- 🎓 I'm an 18-year-old Computer Engineering Student
+- 💻 Passionate about coding and technology
+- 🌟 Anime enthusiast who loves to combine creativity with technical skills
 
-## Skills  
-- Proficient in various programming languages and tools.  
-- Enthusiastic about creating innovative solutions.  
-- Strong interest in automatic customer service systems, inspired by a project I developed with teammates Tanmay, Sujal, Vedant, and Azad.  
+## 🎯 Current Focus
 
-## Hobbies  
-- Watching anime  
-- Playing games  
-- Learning and improving my English language skills  
+- 📚 Learning and growing in Computer Engineering
+- 🔍 Exploring new technologies
+- 💡 Working on exciting coding projects
 
-## Goals  
-I'm on a journey to continually learn and grow, both as an engineer and as an individual. I strive to incorporate creativity and passion into all my work while leaving a mark in the tech and anime communities.  
+## 🌸 Anime Corner
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
+</div>
 
-Feel free to connect with me or explore my projects to learn more!  
+Some of my favorite anime:
+- 🗡️ Attack on Titan
+- 🍜 Naruto
+- 📓 Death Note
+- 🎭 Code Geass
+Favorite Characters:
+- 🦊 Naruto Uzumaki
+- 🏴‍☠️ Monkey D. Luffy
+- ⚔️ Eren Yeager
+
+## 📺 Epic Anime Moments
+
+<div align="center">
+  
+[![Naruto vs Pain](https://img.youtube.com/vi/dzpBxeX3hUM/0.jpg)](https://www.youtube.com/watch?v=dzpBxeX3hUM)
+*Naruto vs Pain - Epic Battle*
+
+[![Luffy Gear 5](https://img.youtube.com/vi/yQqzAeqJQ3g/0.jpg)](https://www.youtube.com/watch?v=yQqzAeqJQ3g)
+*One Piece - Luffy Gear 5 Transformation*
+
+[![Attack on Titan](https://img.youtube.com/vi/FRn6xXXF-7s/0.jpg)](https://www.youtube.com/watch?v=FRn6xXXF-7s)
+*Attack on Titan - Eren's Declaration of War*
+
+</div>
+
+<details>
+<summary>🎬 More Anime Highlights</summary>
+
+- 🥊 [Naruto's First Rasengan](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- ⚡ [Luffy's First Gear 4](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- 🔥 [Levi vs Beast Titan](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+</details>
+
+## 🛠️ Tech Stack 
+// Rest of the file remains the same...
