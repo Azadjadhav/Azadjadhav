@@ -27,33 +27,11 @@ Some of my favorite anime:
 - 🍜 Naruto
 - 📓 Death Note
 - 🎭 Code Geass
+
 Favorite Characters:
 - 🦊 Naruto Uzumaki
 - 🏴‍☠️ Monkey D. Luffy
 - ⚔️ Eren Yeager
 
-## 📺 Epic Anime Moments
-
-<div align="center">
-  
-[![Naruto vs Pain](https://img.youtube.com/vi/dzpBxeX3hUM/0.jpg)](https://www.youtube.com/watch?v=dzpBxeX3hUM)
-*Naruto vs Pain - Epic Battle*
-
-[![Luffy Gear 5](https://img.youtube.com/vi/yQqzAeqJQ3g/0.jpg)](https://www.youtube.com/watch?v=yQqzAeqJQ3g)
-*One Piece - Luffy Gear 5 Transformation*
-
-[![Attack on Titan](https://img.youtube.com/vi/FRn6xXXF-7s/0.jpg)](https://www.youtube.com/watch?v=FRn6xXXF-7s)
-*Attack on Titan - Eren's Declaration of War*
-
-</div>
-
-<details>
-<summary>🎬 More Anime Highlights</summary>
-
-- 🥊 [Naruto's First Rasengan](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- ⚡ [Luffy's First Gear 4](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- 🔥 [Levi vs Beast Titan](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-</details>
 
 
