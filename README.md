@@ -19,7 +19,7 @@
 ## 🌸 Anime Corner
 
 <div align="center">
-  <img src="https://pin.it/2iZzG8xcB" width="300"/>
+  <img src="https://giphy.com/gifs/movie-cute-yALcFbrKshfoY" width="300"/>
 </div>
 
 Some of my favorite anime:
